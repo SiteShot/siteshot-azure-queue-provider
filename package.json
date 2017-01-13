@@ -1,21 +1,21 @@
 {
-  "name": "siteshot-azure-provider",
+  "name": "siteshot-azure-queue-provider",
   "version": "1.0.0",
-  "description": "Azure provider for SiteShot",
+  "description": "Azure queue provider for SiteShot",
   "main": "lib/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha;"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SiteShotApp/siteshot-azure-provider.git"
+    "url": "git+https://github.com/SiteShotApp/siteshot-azure-queue-provider.git"
   },
   "author": "dwnz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SiteShotApp/siteshot-azure-provider/issues"
+    "url": "https://github.com/SiteShotApp/siteshot-azure-queue-provider/issues"
   },
-  "homepage": "https://github.com/SiteShotApp/siteshot-azure-provider#readme",
+  "homepage": "https://github.com/SiteShotApp/siteshot-azure-queue-provider#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "mocha": "^3.2.0"
