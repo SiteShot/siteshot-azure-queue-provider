@@ -1,0 +1,1 @@
+# siteshot-azure
