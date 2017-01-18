@@ -1,6 +1,6 @@
 {
   "name": "siteshot-azure-queue-provider",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Azure queue provider for SiteShot",
   "main": "lib/index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "async": "^2.1.4",
+    "azure-storage": "^1.4.0",
     "config": "^1.24.0",
     "siteshot-logger": "^1.0.0"
   }
